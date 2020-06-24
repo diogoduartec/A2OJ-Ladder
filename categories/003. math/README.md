@@ -47,9 +47,9 @@
 |<ul><li>- [x] Done</li></ul>|42|[Save Luke](http://codeforces.com/problemset/problem/624/A)|Codeforces||AIM Tech Round (Div. 2)|1|
 |<ul><li>- [x] Done</li></ul>|43|[Professor GukiZ's Robotx(http://codeforces.com/problemset/problem/620/A)|Codeforces||Educational Codeforces Round 6|1|
 |<ul><li>- [x] Done</li></ul>|44|[Elephant](http://codefoxces.com/problemset/problem/617/A)|Codeforces||Codeforces Round #340 (Div. 2)|1|
-|<ul><li>- [ ] Done</li></ul>|45|[Pasha and Stick](http://codeforces.com/problemset/problem/610/A)|Codeforces||Codeforces Round #337 (Div. 2)|1|
-|<ul><li>- [ ] Done</li></ul>|46|[Tricky Sum](http://codeforces.com/problemset/problem/598/A)|Codeforces||Educational Codeforces Round 1|1|
-|<ul><li>- [ ] Done</li></ul>|47|[The Monster and the Squirrel](http://codeforces.com/problemset/problem/592/B)|Codeforces||Codeforces Round #328 (Div. 2)|1|
+|<ul><li>- [x] Done</li></ul>|45|[Pasha and Stick](http://codeforces.com/problemset/problem/610/A)|Codeforces||Codeforces Round #337 (Div. 2)|1|
+|<ul><li>- [x] Done</li></ul>|46|[Tricky Sum](http://codeforces.com/problemset/problem/598/A)|Codeforces||Educational Codeforces Round 1|1|
+|<ul><li>- [x] Done</li></ul>|47|[The Monster and the Squirrel](http://codeforces.com/problemset/problem/592/B)|Codeforces||Codeforces Round #328 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|48|[Wizards' Duel](http://codeforces.com/problemset/problem/591/A)|Codeforces||Codeforces Round #327 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|49|[Duff in Love](http://codeforces.com/problemset/problem/588/B)|Codeforces||Codeforces Round #326 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|50|[Olesya and Rodion](http://codeforces.com/problemset/problem/584/A)|Codeforces||Codeforces Round #324 (Div. 2)|1|
