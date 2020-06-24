@@ -3,7 +3,7 @@
 
 | Checkbox | ID | Problem Name|Online Judge|Year|Contest|Difficulty Level|
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-|<ul><li>- [ x ] Done</li></ul>|1|[Perfect Permutation](http://codeforces.com/problemset/problem/233/A)|Codeforces||Codeforces Round #144 (Div. 2)|1|
+|<ul><li>- [x] Done</li></ul>|1|[Perfect Permutation](http://codeforces.com/problemset/problem/233/A)|Codeforces||Codeforces Round #144 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|2|[T-primes](http://codeforces.com/problemset/problem/230/B)|Codeforces||Codeforces Round #142 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|3|[Parallelepiped](http://codeforces.com/problemset/problem/224/A)|Codeforces||Codeforces Round #138 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|4|[Drinks](http://codeforces.com/problemset/problem/200/B)|Codeforces||Codeforces Round #126 (Div. 2)|1|
