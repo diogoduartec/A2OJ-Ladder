@@ -44,9 +44,9 @@
 |<ul><li>- [ ] Done</li></ul>|39|[Round House](http://codeforces.com/problemset/problem/659/A)|Codeforces||Codeforces Round #346 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|40|[Watchmen](http://codeforces.com/problemset/problem/650/A)|Codeforces||Codeforces Round #345 (Div. 1) & Codeforces Round #345 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|41|[Lucky Numbers](http://codeforces.com/problemset/problem/630/C)|Codeforces||Experimental Educational Round: VolBIT Formulas Blitz|1|
-|<ul><li>- [ ] Done</li></ul>|42|[Save Luke](http://codeforces.com/problemset/problem/624/A)|Codeforces||AIM Tech Round (Div. 2)|1|
-|<ul><li>- [ ] Done</li></ul>|43|[Professor GukiZ's Robot](http://codeforces.com/problemset/problem/620/A)|Codeforces||Educational Codeforces Round 6|1|
-|<ul><li>- [ ] Done</li></ul>|44|[Elephant](http://codeforces.com/problemset/problem/617/A)|Codeforces||Codeforces Round #340 (Div. 2)|1|
+|<ul><li>- [x] Done</li></ul>|42|[Save Luke](http://codeforces.com/problemset/problem/624/A)|Codeforces||AIM Tech Round (Div. 2)|1|
+|<ul><li>- [x] Done</li></ul>|43|[Professor GukiZ's Robotx(http://codeforces.com/problemset/problem/620/A)|Codeforces||Educational Codeforces Round 6|1|
+|<ul><li>- [x] Done</li></ul>|44|[Elephant](http://codefoxces.com/problemset/problem/617/A)|Codeforces||Codeforces Round #340 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|45|[Pasha and Stick](http://codeforces.com/problemset/problem/610/A)|Codeforces||Codeforces Round #337 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|46|[Tricky Sum](http://codeforces.com/problemset/problem/598/A)|Codeforces||Educational Codeforces Round 1|1|
 |<ul><li>- [ ] Done</li></ul>|47|[The Monster and the Squirrel](http://codeforces.com/problemset/problem/592/B)|Codeforces||Codeforces Round #328 (Div. 2)|1|
