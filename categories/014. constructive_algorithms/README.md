@@ -25,10 +25,10 @@
 |<ul><li>- [ ] Done</li></ul>|20|[Free Ice Cream](http://codeforces.com/problemset/problem/686/A)|Codeforces|Codeforces Round #359 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|21|[Bear and Five Cards](http://codeforces.com/problemset/problem/680/A)|Codeforces|Codeforces Round #356 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|22|[Bear and Finding Criminals](http://codeforces.com/problemset/problem/680/B)|Codeforces|Codeforces Round #356 (Div. 2)|1|
-|<ul><li>- [ ] Done</li></ul>|23|[Alyona and Numbers](http://codeforces.com/problemset/problem/682/A)|Codeforces|Codeforces Round #358 (Div. 2)|1|
-|<ul><li>- [ ] Done</li></ul>|24|[Lovely Palindromes](http://codeforces.com/problemset/problem/688/B)|Codeforces|Codeforces Round #360 (Div. 2)|1|
-|<ul><li>- [ ] Done</li></ul>|25|[Fraction](http://codeforces.com/problemset/problem/854/A)|Codeforces|Codeforces Round #433 (Div. 2, based on Olympiad of Metropolises)|1|
-|<ul><li>- [ ] Done</li></ul>|26|[Timofey and cubes](http://codeforces.com/problemset/problem/764/B)|Codeforces|Codeforces Round #395 (Div. 2)|1|
+|<ul><li>- [x] Done</li></ul>|23|[Alyona and Numbers](http://codeforces.com/problemset/problem/682/A)|Codeforces|Codeforces Round #358 (Div. 2)|1|
+|<ul><li>- [x] Done</li></ul>|24|[Lovely Palindromes](http://codeforces.com/problemset/problem/688/B)|Codeforces|Codeforces Round #360 (Div. 2)|1|
+|<ul><li>- [x] Done</li></ul>|25|[Fraction](http://codeforces.com/problemset/problem/854/A)|Codeforces|Codeforces Round #433 (Div. 2, based on Olympiad of Metropolises)|1|
+|<ul><li>- [x] Done</li></ul>|26|[Timofey and cubes](http://codeforces.com/problemset/problem/764/B)|Codeforces|Codeforces Round #395 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|27|[Shell Game](http://codeforces.com/problemset/problem/777/A)|Codeforces|Codeforces Round #401 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|28|[Mahmoud and Longest Uncommon Subsequence](http://codeforces.com/problemset/problem/766/A)|Codeforces|Codeforces Round #396 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|29|[Mike and palindrome](http://codeforces.com/problemset/problem/798/A)|Codeforces|Codeforces Round #410 (Div. 2)|1|
