@@ -71,7 +71,7 @@
 |<ul><li>- [ ] Done</li></ul>|66|[Amr and Pins](http://codeforces.com/problemset/problem/507/B)|Codeforces||Codeforces Round #287 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|67|[Minimum Difficulty](http://codeforces.com/problemset/problem/496/A)|Codeforces||Codeforces Round #283 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|68|[Vanya and Lanterns](http://codeforces.com/problemset/problem/492/B)|Codeforces||Codeforces Round #280 (Div. 2)|1|
-|------------------------------------------------------------- GOAL -----------------------------------------------------------------|
+|----------------------------|--|-------------------------------GOAL---------------------------------|----------||------------------------------|-|
 |<ul><li>- [ ] Done</li></ul>|69|[Calculating Function](http://codeforces.com/problemset/problem/486/A)|Codeforces||Codeforces Round #277 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|70|[Expression](http://codeforces.com/problemset/problem/479/A)|Codeforces||Codeforces Round #274 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|71|[Random Teams](http://codeforces.com/problemset/problem/478/B)|Codeforces||Codeforces Round #273 (Div. 2)|1|
