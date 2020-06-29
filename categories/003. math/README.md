@@ -51,7 +51,7 @@
 |<ul><li>- [x] Done</li></ul>|46|[Tricky Sum](http://codeforces.com/problemset/problem/598/A)|Codeforces||Educational Codeforces Round 1|1|
 |<ul><li>- [x] Done</li></ul>|47|[The Monster and the Squirrel](http://codeforces.com/problemset/problem/592/B)|Codeforces||Codeforces Round #328 (Div. 2)|1|
 |<ul><li>- [x] Done</li></ul>|48|[Wizards' Duel](http://codeforces.com/problemset/problem/591/A)|Codeforces||Codeforces Round #327 (Div. 2)|1|
-|<ul><li>- [ ] Done</li></ul>|49|[Duff in Love](http://codeforces.com/problemset/problem/588/B)|Codeforces||Codeforces Round #326 (Div. 2)|1|
+|<ul><li>- [x] Done</li></ul>|49|[Duff in Love](http://codeforces.com/problemset/problem/588/B)|Codeforces||Codeforces Round #326 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|50|[Olesya and Rodion](http://codeforces.com/problemset/problem/584/A)|Codeforces||Codeforces Round #324 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|51|[Vasya and Petya's Game](http://codeforces.com/problemset/problem/576/A)|Codeforces||Codeforces Round #319 (Div. 1) & Codeforces Round #319 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|52|[Simple Game](http://codeforces.com/problemset/problem/570/B)|Codeforces||Codeforces Round #316 (Div. 2)|1|
@@ -71,6 +71,7 @@
 |<ul><li>- [ ] Done</li></ul>|66|[Amr and Pins](http://codeforces.com/problemset/problem/507/B)|Codeforces||Codeforces Round #287 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|67|[Minimum Difficulty](http://codeforces.com/problemset/problem/496/A)|Codeforces||Codeforces Round #283 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|68|[Vanya and Lanterns](http://codeforces.com/problemset/problem/492/B)|Codeforces||Codeforces Round #280 (Div. 2)|1|
+|------------------------------------------------------------- GOAL -----------------------------------------------------------------|
 |<ul><li>- [ ] Done</li></ul>|69|[Calculating Function](http://codeforces.com/problemset/problem/486/A)|Codeforces||Codeforces Round #277 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|70|[Expression](http://codeforces.com/problemset/problem/479/A)|Codeforces||Codeforces Round #274 (Div. 2)|1|
 |<ul><li>- [ ] Done</li></ul>|71|[Random Teams](http://codeforces.com/problemset/problem/478/B)|Codeforces||Codeforces Round #273 (Div. 2)|1|
